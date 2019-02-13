@@ -1,4 +1,4 @@
-The Tiger and the Llama
+The Tiger and the Llama, Plus a Penguin
 
 Striped
 Orange
@@ -6,3 +6,4 @@ White
 Black
 Fangs
 Llama
+Penguin
